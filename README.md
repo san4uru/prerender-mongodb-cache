@@ -25,6 +25,6 @@ Configuration
 
 By default it will connect to your MongoDB instance running on localhost and use the *prerender* collection. You can overwrite this by setting the `MONGOLAB_URI` or `MONGOHQ_URL` environment variables to valid MongoDB connection strings.
 
-You can set cache expiration time in `CACHE_EXPIRATION_DAYS` environment variable (in days). By default - 7 days.
-
 This is done to make it work automatically when deployed on Heroku with the MongoDB add-ons.
+
+You can set cache expiration time in `CACHE_EXPIRATION_DAYS` environment variable (in days). By default - 7 days.
