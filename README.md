@@ -13,7 +13,7 @@ How to use
 
 In your local prerender project run:
 
-    $ npm i https://github.com/twoheaded/prerender-mongodb-cache.git --save
+    $ npm i https://github.com/san4uru/prerender-mongodb-cache.git --save
 
     
 Then in the server.js that initializes the prerender:
